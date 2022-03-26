@@ -1,0 +1,10 @@
+Code Design Document
+____________________
+
+What I’m building?:
+
+What the feature requirements are?:
+
+How I will set things up?:
+
+What functions, classes and data structures I will need?:
