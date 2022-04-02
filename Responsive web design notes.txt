@@ -1,0 +1,86 @@
+Basic HTML and HTML5
+---------------------------
+Layout 
+
+	<h1>Title</h1>
+	<h2>Heading</h2>
+	<p>paragraph</p>
+	<! - - break line -->
+	<br>
+	<! - - horizontal line -->
+	<hr>
+
+HTML5
+	<main>
+		<h1>hello world</h1>
+		<p>hello world</p>
+	</main>
+
+Adding img
+	<img src="image-url.jpg ">
+
+Adding link
+	<a href = “https://example.com”> display text </a>
+
+Adding internal links
+	<a href = ”#contacts_section”> Contacts </a>
+	
+Optionally you can add target=”_blank” in between a and href to open the link in a new tab
+
+	<h2 id= “contacts_section”> Contacts </h2>
+
+
+Adding a dead link
+	<a href = “#”> Contacts </a>
+
+Turing an image into a link
+	
+	<a href="#">
+		<img src="https://example.jpg" alt="picture of example ">
+	</a>
+
+Unordered list
+	<ul>
+		<li>list-item-1</li>
+		<li>list-item-2</li>
+	<ul>
+
+Ordered list
+	<ol>
+		<li>list-item-1</li>
+		<li>list-item-2</li>
+	<ol>
+
+Text box
+	<input type = “text”>
+
+
+Add placeholder into text box
+	<input type = “text” placeholder = “placeholder text”>
+
+Make input required
+	<input type=”text” required>
+
+
+
+Create form element
+	<form action =” url-to-submit-data.com”>
+		<input type=”text”> test-to-submit-to-url
+	</form>
+
+Submit button
+	<button type= “submit”>button name </button>
+
+Radio button
+	<label>
+		<input type=”radio” name=”name for the radio buttons to link them” checked> radio-button-display-text
+	</label>
+
+Set of checkboxes
+	<label for = “box-1”>
+		<input id=”box-1” type=”checkbox” name=”set-of-boxes”>box-1-display-text
+	</label>
+
+
+Basic CSS
+---------------------------
