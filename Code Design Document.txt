@@ -1,10 +1,22 @@
-Code Design Document
+Software Design Document
 ____________________
 
 What I’m building?:
 
-What the feature requirements are?:
+Identify bjectives:
 
-How I will set things up?:
+Identify requirements?:
+
+Identify constranints:
+
+Flowchart?:
 
 What functions, classes and data structures I will need?:
+
+Test plan:
+
+Test evaluation:
+
+Future improvemtns:
+
+Project closure:
